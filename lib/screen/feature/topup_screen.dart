@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class TopUpScreen extends StatefulWidget {
+  const TopUpScreen({super.key});
+
+  @override
+  State<TopUpScreen> createState() => _TopUpScreenState();
+}
+
+class _TopUpScreenState extends State<TopUpScreen> {
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
+}
